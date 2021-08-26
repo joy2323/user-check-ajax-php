@@ -1,5 +1,4 @@
-*jdshsddbf*
-
+* Reason for Using Ajax*
 
 When registering users in a database table, you want to make sure that each user's email address or username is unique.
 This can be doone using JQuery and Ajax, without submitting the form or reloading the page.
